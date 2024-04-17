@@ -1,0 +1,34 @@
+body{
+    background-color: rgba(0, 0, 0, 0.74);
+}
+
+tfoot{
+    background-image: linear-gradient(to bottom, #33ccff, #020007 100%);
+    color: rgb(239, 239, 241);
+}
+
+img{
+    width: 80%;
+    height:  90%;
+    object-fit: cover;
+    align-items: auto;
+    padding: 10%;
+    border-radius: 10%;
+}
+
+h1{
+    align-items: center;
+    padding: auto;
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+
+a{
+    bottom:0mm;
+    align-items: center;
+    padding: auto;
+    margin: 10px;
+    color: rgb(239, 239, 241);
+    text-decoration:#020007
+}
